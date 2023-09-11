@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Basic Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Khand:wght@700&family=Montserrat&family=Poppins:wght@600&display=swap');
+*{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Khand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: ghostwhite;
+}
+header {
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: lightslategray;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.container{
+    max-width: 960px auto;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+footer{
+    background-color: deepskyblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 1;
+    width: 100%;
+}
+jamu{
+    background-color: rgb(170, 218, 218);
+}
+
+</style>
+<body>
+    <header>
+        <h1>
+            SKUpdates.site
+        </h1>
+        <nav>
+            <a href="https://www.google.com/" target="_blank">Home</a>
+            <a href="#" target="_blank">About</a>
+            <a href="#" target="_blank">Service</a>
+            <a href="#">Contact</a>
+        </nav>
+        
+        <div class="container">
+            <p2>
+                <h1> Rajasthan Mahatma Gandhi Seva Prerak Recruitment 2023 </h1></p2>
+                <br>
+            <br>
+            <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                NOTIFICATION
+            </P>
+                <div style="text-align: left;">
+                <p>
+                   ~ राजस्थान में महात्मा गाँधी के प्रचार प्रसार एवं गाँधी पुस्तकालय व संविधान केन्द्रों की सुरक्षा हेतु भर्ती की जायेगी | 
+                    <br>
+                    <br>
+                    Rajasthan Mahatma Gandhi Seva Prerak Bharti 2023 के तहत अभ्यर्थियों  का कार्यकाल 1 वर्ष  का होगा  |
+                    <br>
+                    <br>
+इस दौरान उन्हें 4500 रूपये प्रति माह मानदेय मिलेगा |
+<br>
+<br>
+
+राजस्थान महात्मा गाँधी सेवा प्रेरक भर्ती 2023 के लिए 12 वीं पास एवं समकक्ष योग्यता रखने वाले अभ्यर्थी आवेदन कर सकते है |
+<br>
+<br>
+राजस्थान महात्मा गाँधी सेवा प्रेरक भर्ती 2023 के तहत अभ्यर्थियों का चयन उपखंड स्तर पर समिति द्वारा किया जाएगा |
+<br>
+<br>
+राजस्थान महात्मा गाँधी सेवा प्रेरक भर्ती 2023 का ऑफिसियल (आधिकारिक) Notification जल्द ही जारी किया जाएगा |
+<br>
+<br>
+
+                </p>
+            </div>
+                <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                    OVERVIEW
+                </p>
+                <p>
+                    Recruitment Organization - Government Of Rajasthan
+                    <br>
+                    <br>
+                    Post Name - Mahatma Gandhi Seva Prerak
+                    <br><br>
+                    Advt No. - 2023
+                    <br><br>
+                    Vacancies - 50,000 Posts
+                    <br><br>
+                    Salary/Pay Scale - 4500/- Per Month
+                    <br><br>
+                    Job Location - Rajasthan
+                    <br><br>
+                    Category - Mahatma Gandhi Seva Prerak <br> Recruitment 2023
+                    <br><br>
+                    Mode Of Apply - Offline
+                    <br><br>
+                    Last Date Form - Update Soon
+                    <br><br>
+                    Official Website - <a href="https://rajasthan.gov.in" target="_blank">Rajasthan.gov.in</a>
+                </p>
+                <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                    IMP. DATES
+                    </P>
+               
+                <p>
+                    Start Date -  July 2023
+                    <br> <br>
+                    End Date   -   Update Soon
+                </p>
+                <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                    Age Limit
+                    </P>
+                    <p>
+                        Minimum Age - 21 Years
+                        <br>
+                        Maximum Age - 50 Years
+                    </p>
+                   
+                            <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                                EDUCATION QUALIFICATION
+                                </P>
+                                <p>
+                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br>
+                                    yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br>
+                                    zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <br>
+                                </p>
+                                <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                                    PAY SCALE
+                                    </P>
+                                    <p>
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br>
+                                        yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br>
+                                        zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <br>
+                                    </p>
+                                    <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                                        SELECTION PROCESS
+                                        </P>
+                                    <p>
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br>
+                                        yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br>
+                                        zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <br>
+                                    </p>
+                                    <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                                        HOW TO APPLY
+                                        </P>
+                                    <p>
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br>
+                                        yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br>
+                                        zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <br>
+                                    </p>
+                                    <P style="background-color: rgb(255, 238, 0); font-family: Poppins; font-size: xx-large;"> 
+                                        IMPORTANT LINKS
+                                        </P>
+                                    <p>
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br>
+                                        yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br>
+                                        zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <br>
+                                    </p>
+            
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <hr>
+            <h2> About Us </h2>
+            <P style="font-family: 'Montserrat', sans-serif;">
+                 This is my first basic websire for fun
+            </P>
+        </div>
+
+        <footer>
+            <p>
+                &copy; 2023 My Basic Website. All Right Reserved.
+            </p>
+        </footer>
+    </header>
+</body>
+</html>
